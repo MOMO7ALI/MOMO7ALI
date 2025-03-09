@@ -2,7 +2,7 @@
 A passionate Mobile App Developer.
 
 - 🚀 I'm currently learning **Advanced Flutter**
-- 📧 How to reach me [your-email@example.com](elm.10203040@gmail.com)
+- 📧 How to reach me [elm.10203040@gmail.com](elm.10203040@gmail.com)
 
 - ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-ali-7x/)
